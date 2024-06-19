@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "technical"
+    },
+    "description": "Rotate Element Plugin - This plugin allows you to rotate any element on your Bubble app by specifying the element's ID and the desired rotation angle (0 to 360 degrees). It dynamically applies the rotation transformation to the selected element, providing a simple way to add visual effects to your app's user interface.",
+    "image": "//meta-q.cdn.bubble.io/f1718813539617x275925102258991480/clockwise.svg",
+    "license": "open_source",
+    "name": "Rotate Element",
+    "plugin_instructions": "1.- Enter the ID of the element you want to rotate in the \"Element ID\" field.\n\n2.- Set the desired rotation angle (in degrees) in the \"Rotation Angle (0 to 360)\" field. Values should be between 0 and 360."
+}
